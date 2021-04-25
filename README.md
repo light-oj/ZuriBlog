@@ -1,7 +1,7 @@
 
 # ZuriBlog
 
-A brief description of what this project does and who it's for
+This is sample blog project created as part of Zuri training.
 
 
 ## Deployment
