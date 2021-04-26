@@ -26,6 +26,6 @@ To run tests, run the following command
   
 ## Demo
 
-Link coming soon
+[Blog](https://warm-spire-06231.herokuapp.com/)
 
   
