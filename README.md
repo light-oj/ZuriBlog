@@ -6,16 +6,14 @@ This is sample blog project created as part of Zuri training.
 
 ## Deployment
 
-To deploy this project run
+To deploy this project locally run
 
-```
-  clone this repo
-  
-  cd <project_file>
-  
+```  
   pipenv shell
 
   python manage.py runserver
+  
+  After cloning this repo and you have cd into <project_file>
 ```
 
   
