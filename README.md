@@ -9,6 +9,10 @@ This is sample blog project created as part of Zuri training.
 To deploy this project run
 
 ```
+  clone this repo
+  
+  cd <project_file>
+  
   pipenv shell
 
   python manage.py runserver
